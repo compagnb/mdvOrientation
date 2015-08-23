@@ -1,6 +1,6 @@
 ## Data Vis Orientation
 
-![YAY! Here we go!] (http://images.luvimages.com/luvphotos/y/yay_gif-3921.jpg)
+![YAY! Here we go!] (http://media.giphy.com/media/FrajBDPikVqBG/giphy.gif)
 
 ## Learnyounode Work
 
