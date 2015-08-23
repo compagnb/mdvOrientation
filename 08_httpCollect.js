@@ -1,5 +1,18 @@
+// --------------------------------------
+//
+// Barbara Compagnoni
+// MDV Orientation Weekend
+// Learnyounode Exercise 8
+//
+// Instructions ------------------------
+//
+// 
+//
+// --------------------------------------
 var http = require('http');
+var bl = require('bl')
 var url = process.argv[2];
+
 var data = '';
 
 http.get(url, function(res) {

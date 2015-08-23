@@ -14,13 +14,24 @@ git commit -m "upload message" - commits documents for upload
 git remote add origin https://github.com/compagnb/mdvOrientation.git - pushes to the mdvOrientation repo
 git push -u origin master - pushes
 
+git reset 
 
-git reset - remove from repo
+git rm - remove file
+
+push all
+
+push 
+
+pull - retrieves and merges
+
+
 
         
 c9 open filename - edit file
         
         
         
-Nice guide if needed: http://guides.railsgirls.com/github/
+Nice guide if needed: 
+    http://guides.railsgirls.com/github/ 
+    http://kaidez.com/remove-files-from-github/
         

@@ -1,3 +1,15 @@
+// --------------------------------------
+//
+// Barbara Compagnoni
+// MDV Orientation Weekend
+// Learnyounode Exercise 6
+//
+// Instructions ------------------------
+//
+// 
+//
+// --------------------------------------
+
 var module = require('./mymodule');
 
 //process.argv - 0 is always node, 1 is path to script

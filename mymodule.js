@@ -1,3 +1,14 @@
+// --------------------------------------
+//
+// Barbara Compagnoni
+// MDV Orientation Weekend
+// Learnyounode Exercise 6
+//
+// Instructions ------------------------
+//
+// 
+//
+// --------------------------------------
 var fs = require('fs'); // import fs core module
 var path = require('path'); // import path core module
 

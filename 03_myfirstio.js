@@ -1,3 +1,15 @@
+// --------------------------------------
+//
+// Barbara Compagnoni
+// MDV Orientation Weekend
+// Learnyounode Exercise 3
+//
+// Instructions ------------------------
+//
+// 
+//
+// --------------------------------------
+
 var fs = require('fs'); //import core module fs
 var file = process.argv[2]; //getting argument from process.argv
 var buffer = fs.readFileSync(file); //read the file synchronously into a buffer

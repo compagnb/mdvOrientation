@@ -1,3 +1,15 @@
+// --------------------------------------
+//
+// Barbara Compagnoni
+// MDV Orientation Weekend
+// Learnyounode Exercise 4
+//
+// Instructions ------------------------
+//
+// 
+//
+// --------------------------------------
+
 var fs = require('fs'); // import core module
 var file = process.argv[2]; //getting argument from process.argv
 var numLines = 0;
