@@ -26,6 +26,7 @@ pull - retrieves and merges
 
 
 
+
         
 c9 open filename - edit file
         
@@ -34,4 +35,5 @@ c9 open filename - edit file
 Nice guide if needed: 
     http://guides.railsgirls.com/github/ 
     http://kaidez.com/remove-files-from-github/
+    https://pages.github.com/
         
