@@ -7,8 +7,16 @@ git status - gives a status of the directory, what files are added and what file
 git add - adds file
         add file name after for single file
         '*.js' - all files with that extention
+        . - all files
         
 git commit -m "upload message" - commits documents for upload
+
+git remote add origin https://github.com/compagnb/mdvOrientation.git - pushes to the mdvOrientation repo
+git push -u origin master - pushes
+
+
+git reset - remove from repo
+
         
 c9 open filename - edit file
         
